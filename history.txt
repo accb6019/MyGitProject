@@ -1,0 +1,11 @@
+git --version
+DIR
+cd Documents
+mkdir MyGit
+dir
+history
+hist
+doskey /history
+Get-History | Out-File C:\Users\n.kaliyamurthy\Documents\MyGit\history.txt
+doskey /history > Get-History | Out-File C:\Users\n.kal
+doskey /history > C:\Users\n.kaliyamurthy\Documents\MyGit\history.txt
